@@ -1,0 +1,12 @@
+body {
+    margin 0;
+    background: 3882F6;
+}
+
+.nav {
+    background: #1f2937;
+    display: flex;
+    justify-content: row;
+    align-items: center;
+    padding: 8px;
+}
